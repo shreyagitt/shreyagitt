@@ -110,9 +110,9 @@ A full-stack music streaming platform featuring Admin and Client dashboards.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyagitt\&show_icons=true\&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyagitt&show_icons=true&theme=default&count_private=true&include_all_commits=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyagitt\&layout=compact\&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyagitt&layout=compact&theme=default&count_private=true&cache_seconds=1800)
 
 ---
 

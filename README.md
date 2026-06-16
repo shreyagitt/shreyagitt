@@ -103,7 +103,6 @@ A full-stack music streaming platform featuring Admin and Client dashboards.
 * Agentic AI
 * Machine Learning
 * Explainable AI
-* Cloud Computing
 * System Design
 
 ---
